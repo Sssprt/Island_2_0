@@ -1,0 +1,13 @@
+filename = 'movingelevators-1.4.7-forge-mc1.18.jar'
+name = 'Moving Elevators'
+side = 'both'
+
+[download]
+hash = '575f783a7d7ef1a6b71c9b2413724a5159e26a34ad51cfe83cbe27b0539a358b26d5b8e0b0d5d5595f1b145bee932fd185be2072faad70aa0fbcf1ea6476afaf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9KZOe6HD/versions/SV32fKQ8/movingelevators-1.4.7-forge-mc1.18.jar'
+
+[update.modrinth]
+mod-id = '9KZOe6HD'
+version = 'SV32fKQ8'
