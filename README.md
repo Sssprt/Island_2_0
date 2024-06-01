@@ -1,4 +1,4 @@
- **Island_2_0** **Остров 2.0**<br><br>
+ **Island_2_0** / **Остров 2.0**<br><br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sssprt/Island_2_0)
 ![GitHub Release](https://img.shields.io/github/v/release/Sssprt/Island_2_0)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sssprt/Island_2_0)
