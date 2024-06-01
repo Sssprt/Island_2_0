@@ -1,4 +1,5 @@
  **Island_2_0** **Остров 2.0**
+![GitHub repo size](https://img.shields.io/github/repo-size/:sssprt/:ostriv_2_0)
 
 # Всё что здесь написано обязательно к прочтению!
 Для установки сборки/проекта нужно<br>
