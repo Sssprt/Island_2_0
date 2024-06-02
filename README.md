@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sssprt/Island_2_0?style=flat-square">
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/Sssprt/Island_2_0?style=flat-square">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sssprt%20/Island_2_0?style=flat-square">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sssprt/Island_2_0?style=flat-square">
 </p>
 
 # Основное:
