@@ -7,6 +7,12 @@
 </p>
 
 # Основное:
+<p align="center">
+  <h2>Требования от сборки!</h2>
+  <img alt="Static Badge" src="https://img.shields.io/badge/1.18.2?style=for-the-badge&logo=minecraft">
+  <img alt="Static Badge" src="https://img.shields.io/badge/40.2.21?style=for-the-badge&logo=forge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ostrov2_0?style=for-the-badge&logo=name">
+</p>
 Для установки сборки/проекта нужно<br>
 1. Перенести папку island_2_0-`версия сборки` из `.zip` архива в папку `Загрузки`\*<br>
 2. Создать в если у вас пиратка (TLauncher) сборку с названием `ostrov2_0`\*<br>
