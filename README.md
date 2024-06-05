@@ -9,11 +9,11 @@
 <h1>1. Основное:</h1>
 <h2>1.1. Требования:</h2>
 <p align="center">
-  <b>Требования к сборке:</b><br>
+  <b>Требования к сборке:</b><br><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/версия-1.18.2-blue?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/forge-40.2.21-blue?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/название-ostrov2__0-blue?style=for-the-badge"><br>
-  <b>Системные требования:</b><br>
+  <b>Системные требования:</b><br><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Windows-10/7-blue?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-Fedora/Ubuntu/другие-blue?style=for-the-badge"><br>
 </p>
