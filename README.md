@@ -28,5 +28,5 @@
 
 <h1>2. Другое:</h1>
 При проблеме пишите <a href="https://github.com/Sssprt/Island_2_0/issues/new/choose">сюда</a>.<br><br> 
-При скачивании сборки/проекта вы соглашаетесь с `пользовательским соглашением / Terms of Use / ToU` <a href="https://github.com/Sssprt/Island_2_0/blob/main/configuration/ToU.md">по ссылке</a>.
+При скачивании сборки/проекта вы соглашаетесь с <code>пользовательским соглашением / Terms of Use / ToU</code> <a href="https://github.com/Sssprt/Island_2_0/blob/main/configuration/ToU.md">по ссылке</a>.
 
