@@ -1,8 +1,9 @@
  **Island_2_0** / **Остров 2.0**<br><br>
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sssprt/Island_2_0?style=for-the-badge">
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Sssprt/Island_2_0?style=for-the-badge">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sssprt/Island_2_0?style=for-the-badge">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sssprt/Island_2_0?style=for-the-badge">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/Sssprt/Island_2_0?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sssprt/Island_2_0?style=for-the-badge">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Sssprt/Island_2_0?style=for-the-badge">
 </p>
 
 # Основное:
