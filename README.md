@@ -7,7 +7,7 @@
 </p>
 
 <h1>1. Основное:</h1>
-<h2>0. О сборке:</h2>
+<h2>1.0. О сборке:</h2>
 <p>
   Сборка создана по просьбе <a href="https://www.youtube.com/@MrSanya.">MrSanya</a> для съёмки сериалов в Minecraft на платформу YouTube. Сама сборка практически активно обновляется и ведётся командой из ведущего разработчика - <a href="https://github.com/Sssprt">Sssprt</a>,и помощника - <a href="https://github.com/DiZoloto">DiZoloto</a>.
 </p>
