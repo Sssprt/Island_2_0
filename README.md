@@ -21,13 +21,22 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Windows-10/7-blue?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-Fedora/Ubuntu/другие-blue?style=for-the-badge"><br>
 </p>
-<h2>1.2. Установка:</h2>
+
+<h2>1.2. Скачивание:</h2>
+<p>
+  Для скачивания выберите удобный для вас способ:<br>
+  1. <a href="https://ssprtcomm.tilda.ws/ostrov_2_0">Перейти на сайт</a> и нажать <code>скачать .zip</code><br>
+  2. Нажмите <code>Releases</code>, выберите версию с подписью <code>Latest</code> и в блоке <code>Assets</code> нажмите на <code>Source code (zip)</code>. Или нажмите на <a href="https://github.com/Sssprt/Island_2_0/archive/refs/tags/4.1.0-release.zip">эту ссылку</a> (для скачивания последней версии сразу)
+</p>
+
+<h2>1.3. Установка:</h2>
 <p>
   Для установки сборки/проекта нужно<br>
-  1. Перенести папку island_2_0-<code>версия сборки</code> из <code>.zip</code> архива в папку <code>Загрузки</code>*<br>
+  1.** Перенести папку island_2_0-<code>версия сборки</code> из <code>.zip</code> архива в папку <code>Загрузки</code>*<br>
   2. Создать в если у вас пиратка (TLauncher) сборку с названием <code>ostrov2_0</code>*<br>
-  3. Два раза нажать по файлу <code>install.bat</code> в папке (island_2_0-<code>версия сборки</code>) / (Для обновления) два раза нажать по файлу <code>update.bat</code> в папке (island_2_0-<code>версия сборки</code>)
-  <br><br>*иначе не будет работать скрипт установки!<br><br>
+  3. Два раза нажать по файлу <code>install.bat</code> в папке (island_2_0-<code>версия сборки</code>) / (Для обновления) два раза нажать по файлу <code>update.bat</code> в папке (island_2_0-<code>версия сборки</code>)<br><br>
+  *иначе не будет работать скрипт установки!<br><br>
+  **видео-инструкции <a href="">здесь</a><br><br>
 </p>
 
 <h1>2. Другое:</h1>
