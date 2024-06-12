@@ -26,7 +26,7 @@
 <p>
   Для скачивания выберите удобный для вас способ:<br>
   1. <a href="https://ssprtcomm.tilda.ws/ostrov_2_0">Перейти на сайт</a> и нажать <code>скачать .zip</code><br>
-  2. Нажмите <code>Releases</code>, выберите версию с подписью <code>Latest</code> и в блоке <code>Assets</code> нажмите на <code>Source code (zip)</code>. Или нажмите на <a href="https://github.com/Sssprt/Island_2_0/archive/refs/tags/4.1.0-release.zip">эту ссылку</a> (для скачивания последней версии сразу)
+  2. Нажмите <code>Releases</code>, выберите версию с подписью <code>Latest</code> и в блоке <code>Assets</code> нажмите на <code>Source code (zip)</code>. Или нажмите на <a href="https://github.com/Sssprt/Island_2_0/archive/refs/tags/4.5.0-release.zip">эту ссылку</a> (для скачивания последней версии сразу)
 </p>
 
 <h2>1.3. Установка:</h2>
