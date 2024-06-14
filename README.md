@@ -1,6 +1,6 @@
  **Island_2_0** / **Остров 2.0**<br><br>
 <p align="center">
-  <img alt="Repo logo" src="https://github.com/Sssprt/Island_2_0/assets/145202052/e9345819-d04a-4b78-ade6-d97ed049285b" width="300"><br>
+  <img alt="Repo logo" src="https://github.com/Sssprt/Island_2_0/assets/145202052/e9345819-d04a-4b78-ade6-d97ed049285b" width="300"><br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sssprt/Island_2_0?style=for-the-badge">
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/Sssprt/Island_2_0?style=for-the-badge">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sssprt/Island_2_0?style=for-the-badge">
