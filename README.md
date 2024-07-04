@@ -7,12 +7,12 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/Sssprt/Island_2_0?style=for-the-badge">
 </p>
 
-<h1>1. Основное:</h1>
-<h2>1.0. О сборке:</h2>
+<h1>📣 1. Основное:</h1>
+<h2>❓ 1.0. О сборке:</h2>
 <p>
   Сборка создана по просьбе <a href="https://www.youtube.com/@MrSanya.">MrSanya</a> для съёмки сериалов в Minecraft на платформу YouTube. Сама сборка практически активно обновляется и ведётся командой из ведущего разработчика - <a href="https://github.com/Sssprt">Sssprt</a>,и помощника - <a href="https://github.com/DiZoloto">DiZoloto</a>.
 </p>
-<h2>1.1. Требования:</h2>
+<h2>🛠️ 1.1. Требования:</h2>
 <p align="center">
   <b>Требования к сборке:</b><br><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/версия-1.18.2-blue?style=for-the-badge">
@@ -23,14 +23,14 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-Fedora/Ubuntu/другие-blue?style=for-the-badge"><br>
 </p>
 
-<h2>1.2. Скачивание:</h2>
+<h2>📩 1.2. Скачивание:</h2>
 <p>
   Для скачивания выберите удобный для вас способ:<br>
   1. <a href="https://ssprtcomm.tilda.ws/ostrov_2_0">Перейти на сайт</a> и нажать <code>скачать .zip</code><br>
   2. Нажмите <code>Releases</code>, выберите версию с подписью <code>Latest</code> и в блоке <code>Assets</code> нажмите на <code>Source code (zip)</code>. Или нажмите на <a href="https://github.com/Sssprt/Island_2_0/archive/refs/tags/4.5.0-release.zip">эту ссылку</a> (для скачивания последней версии сразу)
 </p>
 
-<h2>1.3. Установка:</h2>
+<h2>📥 1.3. Установка:</h2>
 <p>
   Для установки сборки/проекта нужно<br>
   1.<span style="color:red">**</span> Перенести папку island_2_0-<code>версия сборки</code> из <code>.zip</code> архива в папку <code>Загрузки</code><span style="color:red">*</span><br>
@@ -40,6 +40,6 @@
   <span style="color:red">**видео-инструкции <a href="">здесь</a></span><br><br>
 </p>
 
-<h1>2. Другое:</h1>
+<h1>🎴 2. Другое:</h1>
 При проблеме пишите <a href="https://github.com/Sssprt/Island_2_0/issues/new/choose">сюда</a>.<br><br> 
 При скачивании сборки/проекта вы соглашаетесь с <code>пользовательским соглашением / Terms of Use / ToU</code> <a href="https://github.com/Sssprt/Island_2_0/blob/main/configuration/ToU.md">по ссылке</a>.
