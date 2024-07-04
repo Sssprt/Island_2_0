@@ -1,4 +1,4 @@
- **Island_2_0** / **Остров 2.0**<br><br>
+**Island_2_0** / **Остров 2.0**<br><br>
 <p align="center">
   <img alt="Repo logo" src="https://github.com/Sssprt/Island_2_0/assets/145202052/e9345819-d04a-4b78-ade6-d97ed049285b" width="300"><br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sssprt/Island_2_0?style=for-the-badge">
@@ -34,7 +34,7 @@
 <p>
   Для установки сборки/проекта нужно<br>
   1.<span style="color:red">**</span> Перенести папку island_2_0-<code>версия сборки</code> из <code>.zip</code> архива в папку <code>Загрузки</code><span style="color:red">*</span><br>
-  2. Создать в если у вас пиратка (TLauncher) сборку с названием <code>ostrov2_0</code>*<br>
+  2. Создать в если вы используете (TLauncher) сборку с названием <code>ostrov2_0</code>*<br>
   3. Два раза нажать по файлу <code>install.bat</code> в папке (island_2_0-<code>версия сборки</code>) / (Для обновления) два раза нажать по файлу <code>update.bat</code> в папке (island_2_0-<code>версия сборки</code>)<br><br>
   <span style="color:red">*иначе не будет работать скрипт установки!</span><br><br>
   <span style="color:red">**видео-инструкции <a href="">здесь</a></span><br><br>
@@ -43,4 +43,3 @@
 <h1>2. Другое:</h1>
 При проблеме пишите <a href="https://github.com/Sssprt/Island_2_0/issues/new/choose">сюда</a>.<br><br> 
 При скачивании сборки/проекта вы соглашаетесь с <code>пользовательским соглашением / Terms of Use / ToU</code> <a href="https://github.com/Sssprt/Island_2_0/blob/main/configuration/ToU.md">по ссылке</a>.
-
